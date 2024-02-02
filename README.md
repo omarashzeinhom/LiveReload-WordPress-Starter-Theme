@@ -19,8 +19,10 @@ node livereload.js
 ```
 
 - Required in Development environment
-- node
-- livereload
+- [chrome](https://www.google.com/chrome)
+* Havent tested it out on firefox
+- [node](https://nodejs.org/en)
+- [livereload - chrome](https://chromewebstore.google.com/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=ja)
 
 ## Description
 
@@ -77,4 +79,6 @@ This project is licensed under the [Your License Name] - see the [LICENSE.md](LI
 
 ---
 
-.
+
+Based on 
+[How to Wordpress Live Reload - By Mai Chanchaemsri](https://medium.com/@maicc/how-to-wordpress-live-reload-2cd12a19357c)
