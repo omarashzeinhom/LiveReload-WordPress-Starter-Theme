@@ -1,0 +1,15 @@
+{
+  "scripts":{
+    "start": "node livereload.js"
+  },
+  "name": "live-reload-starter",
+  "version": "1.0.0",
+  "description": "Luxury theme in wordpress",
+  "main": "index.js",
+  "repository": "https://github.com/omarashzeinhom/Zayno-theme-wordpress.git",
+  "author": "omarashzeinhom <omar.ashraf.zeinhom@Hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "livereload": "^0.9.3"
+  }
+}
