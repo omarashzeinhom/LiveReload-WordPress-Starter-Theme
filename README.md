@@ -24,7 +24,7 @@ node livereload.js
 
 ## Description
 
-A versatile WordPress theme designed for blogs, e-commerce, or portfolios.
+A starter template theme using live reload to speed up the development process to use and reload like reactjs.
 
 ## Author
 
