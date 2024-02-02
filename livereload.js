@@ -1,7 +1,5 @@
 const livereload = require('livereload');
-const server = livereload.createServer({
-   // port: 5000, // Default Port is 35729 Change this to your desired port number
-});
+const server = livereload.createServer();
 
 server.watch(__dirname);
 

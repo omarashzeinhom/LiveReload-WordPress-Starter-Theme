@@ -30,5 +30,10 @@
         <p>Ensure that you have the Livereload browser extension installed and active.</p>
     </div>
 
+    <small>Install Node and the Chrome extension and Follow the Steps in <code>README.md</code></small>
+
+
 </body>
 </html>
+
+

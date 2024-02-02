@@ -1,5 +1,15 @@
 # Live Reload WordPress Starter Theme
 
+- Install
+
+Install nodejs.
+
+```bash
+npm install -g yarn
+yarn install
+```
+
+
 ```bash
 yarn start
 ```
