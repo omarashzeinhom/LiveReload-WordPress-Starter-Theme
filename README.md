@@ -20,7 +20,6 @@ node livereload.js
 
 - Required in Development environment
 - [chrome](https://www.google.com/chrome)
-* Havent tested it out on firefox
 - [node](https://nodejs.org/en)
 - [livereload - chrome](https://chromewebstore.google.com/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=ja)
 
@@ -38,8 +37,8 @@ A starter template theme using live reload to speed up the development process t
 - **Theme Name:** ANDGOCODE Theme
 - **Theme URI:** [Your Theme URI]
 - **Version:** 1.0
-- **License:** [License Information]
-- **License URI:** [License URL]
+- **License:** [MIT License]
+- **License URI:** [License URL](https://opensource.org/license/mit/)]
 - **Tags:** blog, e-commerce, portfolio
 - **Text Domain:** agc-theme
 
